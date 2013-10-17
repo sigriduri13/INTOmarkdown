@@ -1,7 +1,7 @@
 #Open Source
 
 <ul>
-<li>Sigríður Sara Ingvarsdóttird</li>>
+<li>Sigríður Sara Ingvarsdóttir/li>>
 </ul>
 
 ## 1. Linux uppsetning
@@ -19,26 +19,18 @@ Mér gekk vel ad forka NIM.cpp skrána. Það tók mig nokkrar tilraunir að bæ
 
 ## 4. Uppsettur hugbúnaður
 
-VLC
-
-GNU General Public license
-
+VLC  
+GNU General Public license  
 http://www.videolan.org/vlc/download-sources.html
 
 
-return
-Mozilla Firefox
-
-Mozilla Public license
-
+Mozilla Firefox  
+Mozilla Public license  
 https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives?redirectlocale=en-US&redirectslug=Mozilla_Source_Code_%28HTTP%2FFTP%29
 
 
-return
-Arduino
-
-Creative Commons Attribution Share-Alike license
-
+Arduino  
+Creative Commons Attribution Share-Alike license  
 http://arduino.cc/en/main/software#toc6
 
 ## 5. Unnið með Git (2. hluti)
