@@ -1,6 +1,8 @@
 #Open Source
 
-1. Sigridur Sara Ingvarsdottir
+<ul>
+<li>Sigríður Sara Ingvarsdóttird</li>>
+</ul>
 
 ## 1. Linux uppsetning
 
@@ -24,6 +26,7 @@ GNU General Public license
 http://www.videolan.org/vlc/download-sources.html
 
 
+return
 Mozilla Firefox
 
 Mozilla Public license
@@ -31,6 +34,7 @@ Mozilla Public license
 https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives?redirectlocale=en-US&redirectslug=Mozilla_Source_Code_%28HTTP%2FFTP%29
 
 
+return
 Arduino
 
 Creative Commons Attribution Share-Alike license
