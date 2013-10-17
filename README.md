@@ -19,27 +19,21 @@ Mér gekk vel ad forka NIM.cpp skrána. Það tók mig nokkrar tilraunir að bæ
 
 VLC
 
-
 GNU General Public license
-
 
 http://www.videolan.org/vlc/download-sources.html
 
 
 Mozilla Firefox
 
-
 Mozilla Public license
-
 
 https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives?redirectlocale=en-US&redirectslug=Mozilla_Source_Code_%28HTTP%2FFTP%29
 
 
 Arduino
 
-
 Creative Commons Attribution Share-Alike license
-
 
 http://arduino.cc/en/main/software#toc6
 
