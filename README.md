@@ -1,25 +1,34 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+..* Sigridur Sara Ingvarsdottir
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Mér gekk ekki vel að setja upp Linux, því miður. Ég náði mér í Virtual Box vandræðalaust og þá .iso skrá fyrir Linux Mint, en ekkert gekk hjá mér ad "mounta" skrána í Virtual Box. Sama hvad eg reyndi tha virtist ekkert gerast (bara svartur skjar). Eg reyndi lika ad saekja Ubuntu en tha var sama sagan.
+Sjá mynd: ScreenShot.png "ScreenShot"
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Mér gekk vel að setja bæði tólin upp, en hvort tveggja sótti ég mér einfaldlega af netinu með hjálp Google.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Mér gekk vel ad forka NIM.cpp skrána. Það tók mig nokkrar tilraunir að bæta við skrána og uppfæra hana inn á github, en það tókst. Hér er tengill að minni útgáfu https://github.com/sigriduri13/INTOPrufa.git
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+VLC
+GNU General Public license
+http://www.videolan.org/vlc/download-sources.html
+
+Mozilla Firefox
+Mozilla Public license
+https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives?redirectlocale=en-US&redirectslug=Mozilla_Source_Code_%28HTTP%2FFTP%29
+
+Arduino
+Creative Commons Attribution Share-Alike license
+http://arduino.cc/en/main/software#toc6
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Ég skal alveg játa að það tók mig smá tíma að setja mig inn í skipanirnar fyrir git, en þegar það var komið þá gekk þetta vandræðalaust fyrir sig. Leiðbeiningarnar á github komu sér vel. Fannst dálítið snúið að finna út úr því hvernig myndin átti að koma inn, en með hjálp Facebook hópsins hefur það tekist.
