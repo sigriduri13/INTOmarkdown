@@ -1,12 +1,12 @@
 #Open Source
 
 <ul>
-<li>Sigríður Sara Ingvarsdóttir/li>>
+<li>Sigríður Sara Ingvarsdóttir</li>
 </ul>
 
 ## 1. Linux uppsetning
 
-Mér gekk ekki vel að setja upp Linux, því miður. Ég náði mér í Virtual Box vandræðalaust og þá .iso skrá fyrir Linux Mint, en ekkert gekk hjá mér ad "mounta" skrána í Virtual Box. Sama hvad eg reyndi tha virtist ekkert gerast (bara svartur skjár). Eg reyndi lika ad saekja Ubuntu en tha var sama sagan.
+Mér gekk ekki vel að setja upp Linux, því miður. Ég náði mér í Virtual Box vandræðalaust og þá .iso skrá fyrir Linux Mint, en ekkert gekk hjá mér ad "mounta" skrána í Virtual Box. Sama hvað ég reyndi þá virtist ekkert gerast (bara svartur skjár). Ég reyndi líka ad sækja Ubuntu en það var sama sagan.
 Sjá mynd: ![Alt text](ScreenShot.png "Mynd 1. Skjáskot.") 
 
 ## 2. Uppsetning á vim && git
